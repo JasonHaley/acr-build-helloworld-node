@@ -1,5 +1,5 @@
 ---
-page_type: sample
+page_type: sample2
 languages:
 - javascript
 products:
